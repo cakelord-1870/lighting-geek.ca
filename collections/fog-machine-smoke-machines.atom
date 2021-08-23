@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/fog-machine-smoke-machines.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2015-09-29T00:39:00-07:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/10233880065</id>
+    <published>2015-09-29T00:39:00-07:00</published>
+    <updated>2015-09-29T00:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/3l-fog-juice"/>
+    <title>3L Fog Juice</title>
+    <s:type>fog machine</s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/fog-juice-3L.jpg?v=1506719306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong>fog machine<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fog Juice for Water Based Fog Machines - Perfect Fog Fluid for Small 400 Watt to Higher Wattage 1500 Watt Machines. </p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Remains clean, dry, and odorless. Leaves little to no residues or contamination.</li>
+<li>Designed For Use With Any Water Based Fog Machine. Optimized for machines with as little as 400 watts</li>
+<li>Water-based non-toxic formula produces pure white fog.</li>
+<li>Non-irritating, Non Toxic, Non-flammable,Non-Staining, Non-Hazardous.</li>
+<li>Made from the highest quality premium grade chemicals, each approved by the FDA</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/10233880065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.99</s:price>
+      <s:sku>LG-CX-EFF-STM3L</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/2137315969</id>
+    <published>2015-09-29T00:17:00-07:00</published>
+    <updated>2015-09-29T00:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/1000-watt-fog-machine-with-remote-control"/>
+    <title>900 watt fog machine with remote control</title>
+    <s:type>fog machine</s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-GN-DK-F1000-0-ETL.jpg?v=1443512035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong>fog machine<br>
+        <strong>Price: </strong>
+            119.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The GENI DK-F1000 is a durable fog machine capable of powerful atmospheric effects. it is suitable for use in anything from large clubs, to concert stages and beyond with 1000 Watts of power this fog machine will get the job done.</p>
+<p>Great for <span>Halloween </span>decorations, Birthday Parties, Stage events.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>An affordable heavy duty fogger!</li>
+<li>Fuse: 125V 10A</li>
+<li>Power consumption 1000 Watts</li>
+<li>Preheat warm-up time: 5~6 Minutes</li>
+<li>Fog output 700-8000 Cubic Feet per Minute</li>
+<li>Tank Size: 5 Liter</li>
+<li>Includes Remote Control for triggering fog effect from a distance (6ft)</li>
+<li>Only use high quality, water-based fog fluid</li>
+<li>ETL (US and Canada) Certified</li>
+<li>Size: L430xW200xH210mm  (17"x7.9"x8.3")  Weight: 3.5kg (7.7lbs)</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Halloween</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/2137315969</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">119.90</s:price>
+      <s:sku>LG-GN-DK-F1000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/2137312001</id>
+    <published>2015-09-29T00:17:00-07:00</published>
+    <updated>2015-09-29T00:17:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/400-watt-fog-machine-with-remote-control"/>
+    <title>400 watt fog machine with remote control</title>
+    <s:type>fog machine</s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-GN-DK-F006R-Fog_Machine.jpg?v=1443511612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong>fog machine<br>
+        <strong>Price: </strong>
+            69.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Geni - 400W Mini Fog Machine: This atmospheric product will be the main feature at any event for distinctive elements that you can paint with light. The fog machine can provide low or high ambiance to dance the light through creating the perfect mode. This machine has 400 Watts of power, comes with a wired remote and has generous liquid reservoirs.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li>400W mobile Fog Machine</li>
+<li>High efficiency heater block burns through fog with less residue</li>
+<li>Warm-up time: 4~5 minutes</li>
+<li>Output: 2,500 cubic ft. per min</li>
+<li>Internal fog fluid tank: 2.5 Liter</li>
+<li>Fluid level indicator</li>
+<li>Includes wired remote (6ft)</li>
+<li>Only use high quality, water-based fog fluid</li>
+<li>Dimensions (LxWxH): 10.2” x 5.9” x 5.1” / 260x150x130mm</li>
+<li>Weight: 6.2 lbs. / 2.8 kg.</li>
+<li>ETL (US and Canada) Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>fog machine</s:tag>
+    <s:tag>Halloween</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/2137312001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>LG-GN-DK-F006R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

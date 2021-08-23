@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/12-volt-led-light-strips.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2016-03-21T13:33:00-07:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/5406149697</id>
+    <published>2016-03-21T13:33:00-07:00</published>
+    <updated>2016-03-21T13:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/rgb-color-changing-led-tape-light-10m-33ft-indoor-24v"/>
+    <title>RGB Color Changing LED Tape Light 10m (33ft) Indoor 24V</title>
+    <s:type></s:type>
+    <s:vendor>Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/RGB-Custom-Cut-to-Length_b3fbe85a-e5ed-4d2a-ad97-4a905c14ee42.jpg?v=1457677484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Low voltage cETL certified RGB LED strip light is ideal for <strong>indoor</strong> lighting and decoration in modern interior design.</p>
+<p>This listing is for LED strip only. Please purchase <a href="http://lighting-geek.ca/products/mini-rgb-remote-controller-wireless-rf-color-wheel">RGB controller </a>and relative <a href="http://lighting-geek.ca/products/12v-led-drivers-ul-cul-listed-ac-dc-adapters">LED driver</a>.</p>
+<p><strong><strong>Rules to choose <a href="http://lighting-geek.ca/products/12v-led-drivers-ul-cul-listed-ac-dc-adapters">24V LED power supply</a>:</strong> <br></strong></p>
+<ul>
+<li><span>30W adapter can power up to 3.3m (10.8ft)</span></li>
+<li><span>36W adapter can power up to 4m (13ft)</span></li>
+<li><span>60W adapter can power up to 6.6m (21.5ft)</span></li>
+<li><span>90W adapter can power up to 10m (32ft)</span></li>
+</ul>
+<p><strong>Features:</strong></p>
+<ul>
+<li>Highly Flexible</li>
+<li>Low Heat Output</li>
+<li>Extra Long Life:50,000 Hours+</li>
+<li>Low Maintenance Costs: 7.2 Watts/Meter (2.2W/ft)</li>
+<li>Minimal cut length: 3.94" (10cm)</li>
+<li>ETL (US and Canada) Certified LED Strip Light</li>
+<li>Working temperature ranges from -20 - 40 Celsius degree</li>
+<li>Protection grade: IP20 indoor</li>
+</ul>
+<strong>RGB LED Tape Lights are ideal for:</strong>
+<ul>
+<li>Undercabinet lighting</li>
+<li>Architectural lighting</li>
+<li>Accent lighting</li>
+<li>Cove lighting</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:tag>RGB</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5406149697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.90</s:price>
+      <s:sku>LG-HC-D530-RGB-24V-10M-IP33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/5406727361</id>
+    <published>2016-03-10T23:18:00-08:00</published>
+    <updated>2016-03-10T23:18:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/22-guage-rgb-connection-wire-black-bgr-10ft-3m"/>
+    <title>22 Guage RGB Connection Wire, Black+BGR - 20ft (6m)</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/RGB-Wiring-Roll-6m-LightingGeek.jpg?v=1458593154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This is a roll of 20ft (6m) of Bonded Quad Black + B, G, R DC Connection wire 22GA. This connection wire is suitable for connecting RGB LED lighting products using DC electrical Current. This wire comes in very handy when connection RGB Ribbon, RGB Modules or RGB Lighting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5406727361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/5510620545</id>
+    <published>2016-01-06T09:37:00-08:00</published>
+    <updated>2016-01-06T09:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/24v-led-drivers-ul-cul-listed-ac-dc-adapters"/>
+    <title>24V LED Drivers - UL cUL listed AC/DC Adapters Indoor Non-Dimmable</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LED-driver-12V-Adapter_012fab53-7618-4fd1-912e-5567ae3a671d.jpg?v=1458759691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.90 - 36.90
+            <a href="https://lighting-geek.ca/products/24v-led-drivers-ul-cul-listed-ac-dc-adapters">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>High quality well-regulated adapter suitable for powering low voltage LED lighting.</span>
+<ul>
+<li>36W, 60W, 90W maximum output.</li>
+<li>24 volts DC output. (Constant voltage.)</li>
+<li><b>UL listed Class 2 power supply.</b></li>
+<li>Output plug is standard 2.1 mm inside diameter tuning fork; 5.5 mm outside diameter.</li>
+<li>Output cable is about 6 feet long.</li>
+<li>Protections: Short circuit / Overload / Over voltage.</li>
+<li>Full load burn-in tested.</li>
+<li>Built-in electromagnetic impulse filter.</li>
+<li>Low ripple noise.</li>
+<li>Universal, auto-sensing: accepts 100 to 240 VAC input without adjustment, 50 or 60 Hz.</li>
+<li>No minimum load and no load balancing required.</li>
+<li>Proven reliability and rugged housing.</li>
+<li>Operating temperature range: -10 to +60 °C.</li>
+<li>UL, CUL, CE listed.</li>
+<li>Warranty: 1 year.</li>
+<li>Do not use a dimmer on the primary side.</li>
+</ul>
+<p>Dimensions:</p>
+<p>36 Watts: 11.5x5.3x3.3cm  (4.5"x2.1"x1.3")</p>
+<p>60 Watts: <span>12.2</span><span>x</span><span>5.3</span><span>x</span><span>3.3cm  (4.8"</span><span>x2.1"x1.3"</span><span>)</span></p>
+<p>90 Watts: <span>15.5</span><span>x6</span><span>.3</span><span>x4.0</span><span>cm  (6.1"</span><span>x2.5"x1.6"</span><span>)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5510620545</id>
+      <title>24V-60W</title>
+      <s:price currency="CAD">28.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5510620545</id>
+      <title>24V-90W</title>
+      <s:price currency="CAD">36.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/3829170369</id>
+    <published>2016-01-06T09:37:00-08:00</published>
+    <updated>2016-01-06T09:37:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/12v-led-drivers-ul-cul-listed-ac-dc-adapters"/>
+    <title>12V LED Drivers - UL cUL listed AC/DC Adapters</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LED-driver-12V-Adapter.jpg?v=1452102899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.90 - 37.90
+            <a href="https://lighting-geek.ca/products/12v-led-drivers-ul-cul-listed-ac-dc-adapters">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>High quality well-regulated adapter suitable for powering low voltage LED lighting.</span>
+<ul>
+<li>36W, 60W, 90W maximum output.</li>
+<li>12 volts DC output. (Constant voltage.)</li>
+<li><b>UL listed Class 2 power supply.</b></li>
+<li>Output plug is standard 2.1 mm inside diameter tuning fork; 5.5 mm outside diameter.</li>
+<li>Output cable is about 6 feet long.</li>
+<li>Protections: Short circuit / Overload / Over voltage.</li>
+<li>Full load burn-in tested.</li>
+<li>Built-in electromagnetic impulse filter.</li>
+<li>Low ripple noise.</li>
+<li>Universal, auto-sensing: accepts 100 to 240 VAC input without adjustment, 50 or 60 Hz.</li>
+<li>No minimum load and no load balancing required.</li>
+<li>Proven reliability and rugged housing.</li>
+<li>Operating temperature range: -10 to +60 °C.</li>
+<li>UL, CUL, CE listed.</li>
+<li>Warranty: 1 year.</li>
+<li>Do not use a dimmer on the primary side.</li>
+</ul>
+<p>Dimensions:</p>
+<p>36 Watts: 11.5x5.3x3.3cm  (4.5"x2.1"x1.3")</p>
+<p>60 Watts: <span>12.2</span><span>x</span><span>5.3</span><span>x</span><span>3.3cm  (4.8"</span><span>x2.1"x1.3"</span><span>)</span></p>
+<p>90 Watts: <span>15.5</span><span>x6</span><span>.3</span><span>x4.0</span><span>cm  (6.1"</span><span>x2.5"x1.6"</span><span>)</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/3829170369</id>
+      <title>12V-36W</title>
+      <s:price currency="CAD">26.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/3829170369</id>
+      <title>12V-60W</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/3829170369</id>
+      <title>12V-90W</title>
+      <s:price currency="CAD">37.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/4164218497</id>
+    <published>2015-08-06T14:33:00-07:00</published>
+    <updated>2015-08-06T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/mini-rgb-remote-controller-wireless-rf-color-wheel"/>
+    <title>Mini RGB Remote Controller w/ Wireless RF Touch Color Wheel</title>
+    <s:type></s:type>
+    <s:vendor>Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/RF-RGB-LED-Strip-Controller-Color-Wheel.jpg?v=1455254984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This Rainbow Dial RGB controller presents an easy and user-friendly way to control RGB LED tape lights. Using the included remote, you can dial in the color you need by using the touch color wheel. The color is displayed in the center of the dial, so you do not need to be in direct view of the tape lights. Remote can be wall mounted. (Bracket and rechargeable battery charger included.)</p>
+<p><strong>M3-3A Receiving Controller</strong></p>
+<p>Power input:  DC12V-DC24V<br>Max Current load: Max 3A ×3CH<br>Max Output power: 108W/216W (12V/24V)<br>Working Temp:  -30℃ ~ 55℃<br>Dimensions L135×W30×H20mm<br>Weight (N.W.):  47g</p>
+<p><strong>M3 Mini RGB Receiving Controller Color Wheel</strong></p>
+<p>Working Voltage: DC3V (Battery CR2032 )<br>Working Frequency: 433.92 MHz<br>Remote Distance: 40-50m<br>Working Temp: -20℃~55℃<br>Dimensions: L104×W60×H9mm<br>Weight (N.W.): 42g</p>
+<p> </p>
+<h2>Technical information:</h2>
+<table id="tableone">
+<tbody>
+<tr>
+<td>Input voltage:</td>
+<td>12-24 volts DC</td>
+</tr>
+<tr>
+<td>Output voltage:</td>
+<td>12-24 volts DC</td>
+</tr>
+<tr>
+<td>Current:</td>
+<td>9 Amps (3A*3)</td>
+</tr>
+<tr>
+<td>Power:</td>
+<td>108 watts (12V)  216 watts (24V)</td>
+</tr>
+<tr>
+<td>Controller size:</td>
+<td>135mm x 30mm x 20mm</td>
+</tr>
+<tr>
+<td>Size of remote control:</td>
+<td>104mm x 58mm x 9mm</td>
+</tr>
+<tr>
+<td>RF range:</td>
+<td>40-50 meters</td>
+</tr>
+<tr>
+<td>Used frequency:</td>
+<td>433.92 Mhz</td>
+</tr>
+<tr>
+<td>Connection:</td>
+<td>screw terminal</td>
+</tr>
+<tr>
+<td>Controller weight:</td>
+<td>45 grams</td>
+</tr>
+<tr>
+<td>Warranty:</td>
+<td>1 year</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<h2>Features:</h2>
+<ul>
+<li>On / Off</li>
+<li>Change the brightness of a fixed color</li>
+<li>Change the speed of chaining programs</li>
+<li>Choosing colors via the color wheel</li>
+<li>Chain 3 colors: Red &gt; Green &gt; blue</li>
+<li>Chain 7 colors: Red &gt; Green &gt; Blue &gt; Yellow &gt; Pink &gt; Cyan &gt; White</li>
+<li>Fade 3 colors: Red &gt; Green &gt; blue</li>
+<li>Fade 7 colors: Red &gt; Pink &gt; Blue &gt; Cyan &gt; Green &gt; Yellow &gt; White</li>
+</ul>
+<div class="produce_info-text_title"><strong>Small figure, big function</strong></div>
+<div>Mini controller volume is only 1/3 of the conventional controller, but can implement features such as dimming, RGB and color temperature control.</div>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0863/4336/files/RF-Controller-Size-Small-Wireless.jpg?8984208602749305320" style="float: none;"></p>
+<p> </p>
+<p><strong>Humanized wall bracket</strong><br>With this humanized wall bracket which can fix the remote on obviously place of wall,You will not be bothered to find the remote.</p>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0863/4336/files/RGB-Controller-Wall-Bracket.JPG?14356012037733364194" style="float: none;"></p>
+<p> </p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:tag>RGB</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/4164218497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>LG-LT-M3-3A-RGB</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/2068708673</id>
+    <published>2015-08-06T14:33:00-07:00</published>
+    <updated>2015-08-06T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/12v-indoor-led-strip-light-6000k-cool-white"/>
+    <title>24V Indoor LED Strip Light - 6000K Cool White 33ft (10m)</title>
+    <s:type></s:type>
+    <s:vendor>Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-HC-D360-C_e198f2f9-f8a1-4824-9f44-a3b99c5530c4.JPG?v=1442377820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>cETL certified LED strip light is ideal for indoor lighting and decoration in modern interior design.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li><span>Dimension: 10000*8*2mm   10m (33ft) /Roll</span></li>
+<li>Ultrabight LEDs  280 Lumens/Meter (85 Lumens/Ft).</li>
+<li>Highly Flexible</li>
+<li>Low Heat Output</li>
+<li>Extra Long Life: 50,000 Hours+</li>
+<li>Low Maintenance Costs: 4.8 Watts/Meter (1.5W/ft)</li>
+<li>CRI &gt;= 85</li>
+<li>Minimal cut length: 5cm</li>
+<li>ETL (US and Canada) Certified LED Strip Light</li>
+<li>Working temperature ranges from -20 - 40 Celsius degree</li>
+<li>Protection grade: IP20 indoor</li>
+<li>Electric shock resistance grade: Class Ⅲ</li>
+</ul>
+<div>
+<div><strong>Cool White LED Strips Lights are ideal for:</strong></div>
+<div>
+<ul>
+<li>Retail Display lighting</li>
+<li>Jewelry Lighting</li>
+<li>Under cabinet lighting</li>
+<li>Architectural lighting</li>
+<li>Accent lighting</li>
+<li>Cove lighting</li>
+</ul>
+</div>
+</div>
+<div>
+<ul></ul>
+</div>
+<div>
+<div></div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/2068708673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.90</s:price>
+      <s:sku>LG-HC-D360-W-10M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1768515649</id>
+    <published>2015-08-06T14:33:00-07:00</published>
+    <updated>2015-08-06T14:33:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/12v-indoor-flexible-led-tape-light-warm-white"/>
+    <title>24V Indoor LED Strip Light - 3000K Warm White 33ft (10m)</title>
+    <s:type></s:type>
+    <s:vendor>Colors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-HC-D360-C.JPG?v=1438897091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Colors<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>cETL certified LED strip light is ideal for indoor lighting and decoration in modern interior design.</p>
+<p><strong>Features:</strong></p>
+<ul>
+<li><span>Dimension: 10000*8*2mm   10m (33ft) /Roll</span></li>
+<li>Ultrabight LEDs  280 Lumens/Meter (85 Lumens/Ft).</li>
+<li>Highly Flexible</li>
+<li>Low Heat Output</li>
+<li>Extra Long Life: 50,000 Hours+</li>
+<li>Low Maintenance Costs: 4.8 Watts/Meter (1.5W/ft)</li>
+<li>CRI &gt;= 85</li>
+<li>Minimal cut length: 5cm</li>
+<li>ETL (US and Canada) Certified LED Strip Light</li>
+<li>Working temperature ranges from -20 - 40 Celsius degree</li>
+<li>Protection grade: IP20 indoor</li>
+<li>Electric shock resistance grade: Class Ⅲ</li>
+</ul>
+<div><strong>Warm White LED Strips Lights are ideal for:</strong></div>
+<div>
+<ul>
+<li>Undercabinet lighting</li>
+<li>Architectural lighting</li>
+<li>Accent lighting</li>
+<li>Cove lighting</li>
+</ul>
+</div>
+<div>
+<div></div>
+<div>
+<ul></ul>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>12v led strip</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1768515649</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.90</s:price>
+      <s:sku>LG-HC-D360-WW-10M</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

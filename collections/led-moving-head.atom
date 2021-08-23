@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/led-moving-head.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2015-12-21T14:51:00-08:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/5433918145</id>
+    <published>2015-12-21T14:51:00-08:00</published>
+    <updated>2015-12-21T14:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/micky-series-wash-light-40w-led-moving-head-wash-light-rgbaw-uv-6-in-1"/>
+    <title>Micky Series Wash Light - 40W LED Moving Head Wash Light RGBAW+UV 6-in-1</title>
+    <s:type></s:type>
+    <s:vendor>Yellow River</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LED_wash_moving_head_40W_6in1.jpg?v=1458011894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yellow River<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            362.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/FNVPOny0FDw?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p> </p>
+<p>A very compact Micky moving head wash light with bright output. The 4x 10-watt 6-in-1 RGBAW+UV LED produces 25° wash spread and pure richly saturated color mixing effect. </p>
+<p>This Yellow River moving head works both in DMX or stand-alone mode. In stand-alone mode you can choose between an automatic or sound controlled mode. When operating in DMX mode you have complete control with 15 DMX channels. Among it's features are an adjustable strobe speed (up to 10 times/second), 0-100% linear dimmer and 8bit / 16bit X/Y movement functions .</p>
+<h5>Main Features: </h5>
+<ul>
+<li>Head movement: Pan 540°, Tilt 220°</li>
+<li><span>25° beam angle</span></li>
+<li>4x 10Watts - 6in1 RGBAW+UV (Red Green Blue Amber White + Blacklight) LED</li>
+<li>15 DMX channels</li>
+<li>DMX and Stand-alone mode</li>
+<li>Automatic and music controlled</li>
+<li>Adjustable strobe speed (0-10 times/second)</li>
+<li>0-100% Linear Smooth Dimming</li>
+<li>8bit 16bit X/Y movement control (<span>65536 steps accurate positioning</span>) </li>
+<li>Automatic pan/tilt correction</li>
+<li>Reset function</li>
+<li>Control panel with LED display</li>
+<li>DMX in/output via 3-pin XLR</li>
+<li>Dimensions (LxWxH):7.9"x7.7"x12.5" (20x19.5x31.8cm) • Weight: 7.7 lbs (3.5kg)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5433918145</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">362.90</s:price>
+      <s:sku>LG-YR-W1004H</s:sku>
+      <s:grams>3992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/5431968513</id>
+    <published>2015-12-21T14:51:00-08:00</published>
+    <updated>2015-12-21T14:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/micky-series-beam-rgbw-60w-led-beam-moving-head-rgbw-4-in-1"/>
+    <title>Micky Series Beam RGBW - 60W LED Beam Moving Head RGBW 4-in-1</title>
+    <s:type></s:type>
+    <s:vendor>Yellow River</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LED-Moving-Head-Beam-Light-RGBW-60W.jpg?v=1458003157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yellow River<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            439.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/Kxler_eWZ0s?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed//6Fn3Cl9KVGc?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p> </p>
+<p>A very compact Micky moving head beam light with bright output. The 60W QUAD RGBW 4in1 LED produces a narrow 2.5° beam. It is the first real RGBW beam light in the entertainment industry as all previous multi-color beam lights the different color diodes are separated. With the combination of the Advanced Lens (94mm diameter) and the latest multi chip LED technology, this fixture delivers magical effects of brightness of 6010 LUX @5meter and 1150LUX @10meter.</p>
+<p>This Yellow River moving head works both in DMX or stand-alone mode. In stand-alone mode you can choose between an automatic or sound controlled mode. When operating in DMX mode you have complete control with 14 DMX channels. Among it's features are an adjustable strobe speed (up to 10 times/second), 0-100% linear dimmer and 8bit / 16bit X/Y movement functions .</p>
+<h5>Main Features: </h5>
+<ul>
+<li>Head movement: Pan 540°, Tilt 220°</li>
+<li><span>Super-sharp 2.5° beam angle</span></li>
+<li>60W QUAD RGBW LED</li>
+<li>14 DMX channels</li>
+<li>DMX and Stand-alone mode</li>
+<li>Automatic and music controlled</li>
+<li>Adjustable strobe speed (0-10 times/second)</li>
+<li>0-100% Linear Smooth Dimming</li>
+<li>8bit 16bit X/Y movement control (<span>65536 steps accurate positioning</span>) </li>
+<li>Automatic pan/tilt correction</li>
+<li>Reset function</li>
+<li>Control panel with LED display</li>
+<li>DMX in/output via 3-pin XLR</li>
+<li>Dimensions (LxWxH):7.9"x7.7"x12.5" (20x19.5x31.8cm) • Weight: 7.7 lbs (3.5kg).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/5431968513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">439.90</s:price>
+      <s:sku>LG-YR-B6001Q</s:sku>
+      <s:grams>3992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1754323841</id>
+    <published>2015-12-21T14:51:00-08:00</published>
+    <updated>2015-12-21T14:51:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/micky-series-spot-40w-led-spot-moving-head"/>
+    <title>Micky Series Spot - 40W LED Spot Moving Head</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-YR-S4001-1.jpg?v=1438797533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            439.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/GunCablvNpI?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p> </p>
+<p>A very compact Micky moving head spot with bright output. The 40W LED produces a 9° beam. The moving head is equipped with both a color and gobo wheel for ultimate control. The gobo wheel has 9 different gobos + open and the color wheel has 7 colors + white. This Yellow River moving head works both in DMX or stand-alone mode. In stand-alone mode you can choose between an automatic or sound controlled mode. When operating in DMX mode you have complete control with 11 DMX channels. Among it's features are an adjustable strobe speed, 0-100% dimmer and a gobo shake effect.</p>
+<h5>Main Features: </h5>
+<ul>
+<li>Head movement: Pan 540°, Tilt 220°</li>
+<li>40W white LED</li>
+<li>11 DMX channels</li>
+<li>DMX and Stand-alone mode</li>
+<li>Automatic and music controlled</li>
+<li>9 Gobos + open</li>
+<li>Gobo shake effect</li>
+<li>7 Colors + white</li>
+<li>Adjustable strobe speed</li>
+<li>0-100% Dimmer</li>
+<li>Automatic pan/tilt correction</li>
+<li>Reset function</li>
+<li>Manual focus</li>
+<li>Control panel with LED display</li>
+<li>DMX in/output via 3-pin XLR</li>
+<li>Dimensions (LxWxH):7.9"x7.7"x11.6" (20x19.5x29.5cm) • Weight: 8.8 lbs (4kg).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1754323841</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">439.90</s:price>
+      <s:sku>LG-YR-S4001</s:sku>
+      <s:grams>3992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1754379457</id>
+    <published>2015-12-21T14:42:00-08:00</published>
+    <updated>2015-12-21T14:42:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/mini-moving-head-led-wash-light-7-tri-rgb"/>
+    <title>Mini Moving Head LED Wash Light - 7*Tri-RGB</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-CX-MVH-7X3-AMZ.jpg?v=1450737858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            259.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/RqNcPIF5LKE?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p> Mini moving head powered by an group of seven energy-efficient Tri-RGB LEDs. It allows for DMX control in 8 and 14-channel modes and standalone operation with automated programs and sound activation to the beat of the music. An LED display of Mode, Enter, Value Up and Value Down keys provide easy manual control. This is our most economical led moving head wash light of all in the market.</p>
+<h5>Main Features: </h5>
+<ul>
+<li> Mini moving head dj lights 7*Tri-RGB LED (Red Green Blue)</li>
+<li> Convenient access to static colors and RGB color mixing with or without DMX</li>
+<li> X-Axis 540° Y-Axis 180° rotation.</li>
+<li> 8 built in auto running programs.</li>
+<li> 8/14 DMX channels: all controllable X-Y movement, pulse lighting or color mixing.</li>
+<li> Four control modes available: Auto/Sound/DMX/Master-slave.</li>
+<li> 0-100% Dimming.</li>
+<li> Dimensions (LxWxH):: 6.7” x 6.1” x 10.5 ”  (16.90 x 15.50 x 26.70 cm) • Weight: 7.0 lbs (3.2 kg).</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1754379457</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">259.90</s:price>
+      <s:sku>LG-CX-MVH-7X4</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

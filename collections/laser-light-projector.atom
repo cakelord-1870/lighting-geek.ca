@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/laser-light-projector.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2015-08-05T12:19:00-07:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/1756374273</id>
+    <published>2015-08-05T12:19:00-07:00</published>
+    <updated>2015-08-05T12:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/1w-rgb-laser-projector-full-color-compact-ilda-programmable-sd-card"/>
+    <title>Hawk-1RGB Laser Projector-Full Color compact ILDA 25kpps</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-1RGB-AMZ.jpg?v=1445447758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            1499.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/T5kteGMm51Y?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/dNlNKg9Gbto?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p><strong>Hawk-1RGB 1W pure diode animation laser.</strong><strong> </strong><strong>RGB laser projector with</strong><strong> <span color="red" style="color: red;">Red: 200mW 635nm, </span><span color="green" style="color: green;">Green: 200mW 520nm,</span> <span color="blue" style="color: blue;">Blue: 600mW 450nm</span></strong></p>
+<p>Brand new version of most popular high-performance 1000mw RGB laser light. This ultra-compact and lightweight model can fit in any place for temporary laser shows or stage effect lighting. Although compact, it's good enough for large venues of 800-1200 people capacity: this one will rock the whole space for an amazing light beam show. With a fog machine, you can see the beams crystal clear in air.</p>
+<p>This show laser light provides an analog modulation. It means a better color fading and a much broader color hue. These facts make the Hawk-1RGB ideal for all applications requiring many different colors and color transitions.</p>
+<p>Besides the <strong>high quality laser diodes (6,000 hours lifetime)</strong>, this laser has 25kpps high-speed optical scanner built in. Together with <a href="http://www.lighting-geek.com/product/laser-show-software-animation-cartoon/" target="_blank" title="cheap quick show software" rel="noopener noreferrer">ILDA software QuickShow</a>. This unit is capable for projecting complicated logo animation, cartoon character or movie effects.  </p>
+<p>Main features of this <strong>RGB laser show equipment</strong>:</p>
+<ul>
+<li>25Kpps scanner with optical scanning angle ± 20 °.</li>
+<li>Control over pre-programmed effects / SD card files via DMX.</li>
+<li>Control modes: Music / Auto / DMX 12CH / ILDA PC / Master-slave / SD-Card.</li>
+<li>100+ pre-programmed colorful graphics and beam patterns on 2GB SD card. Download any ILDA laser files to SD card and project instantly.</li>
+<li>Operate with any ILDA-compatible controller. Works great with this <a href="https://lighting-geek.ca/products/pangolin-quickshow-laser-show-designer-software-ilda-cables" target="_blank" title="cheap quick show software" rel="noopener noreferrer">Quickshow 2.0 FB3 Laser Show Designer Software.</a>
+</li>
+<li>Analog modulated RGB laser with thousands of </li>
+<li>Certified to comply with all US FDA safety standards:switchable scan fail safety (single beam protection), safety key-switch and remote interlock.</li>
+<li>Dimensions (LxWxH):7.1"x11.0"x8.7" (18x28x22cm) • Weight: 11.0 lbs (5 kg)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RGB</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1756374273</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1499.90</s:price>
+      <s:sku>LG-DX-HAWK-1RGB</s:sku>
+      <s:grams>4990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1756266305</id>
+    <published>2015-08-05T12:15:00-07:00</published>
+    <updated>2015-08-05T12:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/purple-pink-laser-light-red-blue-mixing-pink-laser"/>
+    <title>Hawk-1P Purple / Pink laser light: red+blue mixing pink laser</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-1P-AMZ.jpg?v=1442387862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            699.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed/A0nX1Zg-esk?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<p><strong>Hawk-1P Pink Laser mixed by blue and red laser diodes (high end 635nm red diode with better color visibility and beam shape</strong><strong>). </strong> The laser color can be purple/pink depends on the background lighting.</p>
+<p><span>The Hawk 1P is a real single color pink laser unit with a total output power of up to 1000mW (converted power value). Unlike other purple/pink lasers in the market, which typically use single 405nm Purple DPSS diode. This model combine 470nm blue with</span><strong> high-end 635nm red</strong><span> to get a brighter purple which is close to pink. The mixing color delivers higher visibility and brightness than the single purple diode ones.</span></p>
+<p>At the same time this unit offers a galvo system with up to 25kpps as well as a scan angle of up to 40° (±20°). It comes with 100+ pre-stored laser shows on the 2GB SD-Card suitable for weddings, Christmas, Halloween, birthdays etc. </p>
+<p><strong><strong><strong>Main Features:</strong> </strong></strong></p>
+<ul>
+<li>Designed for pink laser light show with 6 modes:Sound, Auto-Beam, Auto-Animation, DMX512 (18 CH), Master/Slave, SD-Card.</li>
+<li>Pink laser beam combined by high end built 200mW 635nm red laser diode and 400mW 470nm blue laser diode.</li>
+<li>Applicable places: disco, clubs, home parties, halloween parties, concerts, stage, roller skating rinks, home theaters etc.</li>
+<li>Comply with all US FDA safety standards: switchable scan fail safety (single beam protection), safety key-switch and remote interlock.</li>
+<li>Linkable via 3-pin XLR cable (for DMX or Master-slave linking). </li>
+<li>Dimensions (LxWxH):7.1"x11.0"x8.7" (18x28x22cm) •  Weight: 14.3 lbs (6.5kg)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1756266305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">699.90</s:price>
+      <s:sku>LG-DX-HAWK-1P</s:sku>
+      <s:grams>6486</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1756178305</id>
+    <published>2015-08-05T12:11:00-07:00</published>
+    <updated>2015-08-05T12:11:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/compact-green-laser-projector-ilda-programmable-system"/>
+    <title>Hawk-1G 500mW 520nm Compact green laser projector 25kpps ILDA</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-1G-AMZ.jpg?v=1442387830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            1299.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed//KikFCqou0r4?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<strong> </strong>
+<p> </p>
+<p><strong>Hawk-1G 500mW 520nm pure diode Green Laser Light Show Compact Projector</strong></p>
+<p>The Hawk 1G is a green single color laser projection system with a total output power of up to 500mW. The 520nm pure diode ensures a high visibility and brightness. It provides more stable performance, longer lifetime and superior color rendering compared to traditional DPSS 532nm green.  The galvo system is up to 25kpps with a scan angle of up to 40° (±20°): all you need for a fantastic green laser show. As other units in Hawk1 series, it has a ILDA interface for professional computer control. About 200 preset basic patterns, like layers, tunnels, fences, waves etc. can be controlled via DMX. </p>
+<h5>Main Features: </h5>
+<ul>
+<li><strong>Animated laser lights produced by 25kpps high speed scanner, ILDA controllable.</strong></li>
+<li>High end built 500mW 520nm pure green laser diode.</li>
+<li>Designed for green laser light show with 6 modes:Sound, AUTO, DMX512 (18 CH), ILDA PC, Master/Slave, SD-Card.</li>
+<li>Compact green laser for places like bars, clubs, concert, nightclubs. Or as side fill projector at private parties or theaters.</li>
+<li>2GB SD Card with 100+ pre-stored laser show files. Download other laser show .ILDA files to SD Card and project instantly.</li>
+<li>For the sound-to-light mode the sensitivity of the integrated adjustable microphone can be altered.</li>
+<li>Dimensions (LxWxH):7.1"x11.0"x8.7" (18x28x22cm) • Weight: 14.3 lbs (6.5kg)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Green</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1756178305</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1299.90</s:price>
+      <s:sku>LG-DX-HAWK-1G</s:sku>
+      <s:grams>6486</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1756111105</id>
+    <published>2015-08-05T12:08:00-07:00</published>
+    <updated>2015-08-05T12:08:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/1000mw-blue-laser-light-projector-ilda"/>
+    <title>Hawk-1B 1000mW Blue Laser Projector 25kpps ILDA</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-1B-AMZ.jpg?v=1442387794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            599.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed//UuOuQskWEXo?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<strong> </strong>
+<p> </p>
+<p><strong>Hawk-1B 1 watt blue laser projector with</strong><strong> </strong><strong><span color="blue" style="color: blue;">1000mW 450nm </span></strong><strong><span color="blue" style="color: blue;">Blue: diode.</span></strong></p>
+<p>Equipped with 25kpps high speed galvos: No matter if for graphics projections, beam shows or professional advertising - this blue laser projector works on professional level meeting your needs.</p>
+<p><span>Main Features: </span></p>
+<ul>
+<li>Designed for blue laser light show with 6 modes:Sound, AUTO, DMX512 (18 CH), ILDA PC, SD-card, Master/Slave.</li>
+<li>
+<strong>1w blue laser</strong> built in with more than 100 lighting patterns and 400 lighting effects.</li>
+<li>2GB SD Card with 100+ pre-stored laser show files. Download other laser show .ILDA files to SD Card and project instantly.</li>
+<li>Powerful laser projector with guaranteed 1000mW diode laser module.</li>
+<li>Linkable via 3-pin XLR cable (for DMX or Master-slave linking).</li>
+<li>Compact housing comes with versatile and low weight: perfect for applications in nightclubs, bars or for mobile DJs.</li>
+<li>High power blue laser diode equipped with 25kpps high speed scanner, <strong>laser text projector</strong> capable to project complicated company Logos, commercials, wedding names.</li>
+<li>Analogue blue color modulation (beam brightness linear tunable).</li>
+<li>Complies with FDA safety features: switchable scan fail safety (single beam protection), safety key-switch and remote interlock.</li>
+<li>For live laser control please choose <a href="http://lighting-geek.ca/products/pangolin-quickshow-laser-show-designer-software-ilda-cables">Pangolin Quickshow Software Package</a>.</li>
+<li>Dimensions (LxWxH):7.1"x11.0"x8.7" (18x28x22cm) • Weight: 14.3 lbs (6.5kg)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blue</s:tag>
+    <s:tag>Blue Laser</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1756111105</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">599.90</s:price>
+      <s:sku>LG-DX-HAWK-1B</s:sku>
+      <s:grams>6486</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1756056129</id>
+    <published>2015-08-05T12:05:00-07:00</published>
+    <updated>2015-08-05T12:05:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/6w-rgb-high-power-laser-show-projector-6watt"/>
+    <title>Hawk 6 - 6W RGB High Power Laser Show Projector</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-6RGB-AMZ.jpg?v=1442275069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            5799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed//l4yX8CRnlcc?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<strong> </strong>
+<p> </p>
+<p><strong>DragonX Hawk 6 series high power RGB laser projector: 6 Watt 30kpps</strong><span> - </span><span color="red" style="color: red;">Red: 1200mW <strong>637nm</strong>,</span><span> </span><span color="green" style="color: green;">Green: 1600mW 520nm,</span><span> </span><span color="blue" style="color: blue;">Blue: 3200mW 445nm. </span></p>
+<p><span><span>The Hawk 6 laser systems combine extreme power with very high accuracy and super small size. This makes it suitable for any kind of application - fixed installations, mobile use, multimedia projects, long distance outdoor applications and extra precise graphics projections. </span><br></span></p>
+<p><strong>Main features: </strong></p>
+<ul>
+<li>Laser show projector built with state of art 520nm pure green laser diode: stable output and better lifetime compared to traditional 532nm green.</li>
+<li>Pure RGB diode: great linear color fading behavior.</li>
+<li>The 637nm diode ensures a brilliant and ultra bright red with sharp drawing patterns. Excellent build as laser image projector for outdoor advertising or promotions.</li>
+<li>FDA compliant with all secure features.</li>
+<li>Beam Divergence &lt;1mrad at="" full="" angle="" li=""&gt;</li>
+<li>Beam Diameter &lt; 4.5 mm</li>
+<li>Modulation : &gt;50KHz Analog.</li>
+<li>Scanspeed: ILDA-30Kpps, ±30 °</li>
+<li>X/Y Scan Angle max:80° optical</li>
+<li>Less than 150W power consumption.</li>
+<li><span>Compact Size: 10.8"X8.4"X5.7" (L330 x W255 x H175mm). Net weight: 17.6 lbs (13kg). </span></li>
+<li>
+<span>Can be operated with any ILDA-compatible controller. Works great with this </span><a href="http://lighting-geek.ca/products/pangolin-quickshow-laser-show-designer-software-ilda-cables" target="_blank" title="cheap quick show software">Quickshow 2.0 FB3 Laser Software.</a>
+</li>
+<!--1mrad-->
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1756056129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5799.00</s:price>
+      <s:sku>LG-DX-HAWK-6RGB</s:sku>
+      <s:grams>7983</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1755962369</id>
+    <published>2015-08-05T12:02:00-07:00</published>
+    <updated>2015-08-05T12:02:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/3w-high-power-520nm-green-laser-light-show-projector"/>
+    <title>Hawk 3G - 3W 520nm Green Laser light show projector</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-3G-AMZ.jpg?v=1442275009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            4899.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The DragonX Hawk 3G is powerful green color laser system that is based on revolutionary 520nm Pure Diode Laser technology which ensures top class performance and long lifespan of the system.</span><span> This Hawk 3W Green laser model provide you low budget but high quality light show projector. </span></p>
+<p>Main features: </p>
+<ul>
+<li>3.5" touch screen</li>
+<li>Sharp beams and precise projections</li>
+<li>Brilliant green with great linear color fading behavior</li>
+<li><span>Digitally adjustable parameters: brightness,projection size, projection position, Z-axis tilt, XY axis invert, TEST frames, SD card files play.</span></li>
+<li>Ports: ILDA DB-25, DMX, SD card, USB connecting (support ild. files)</li>
+<li>FDA compliant with all secure features.</li>
+<li>Beam Divergence &lt;1.1 mrad="" at="" full="" angle="" li=""&gt;<!--1.1-->
+</li>
+<li>Beam Diameter &lt; 5mm</li>
+<li>Modulation : &gt;50KHz Analog.</li>
+<li>Scanspeed: ILDA-30Kpps, ±30 °</li>
+<li><span>Compact Size: 10.5"X10.5"X6.1" (L265 x W265 x H155mm). Net weight: 17.6 lbs (8kg). </span></li>
+<li>
+<span>Can be operated with any ILDA-compatible controller. Works great with this </span><a href="http://lighting-geek.ca/products/pangolin-quickshow-laser-show-designer-software-ilda-cables" target="_blank" title="cheap quick show software">Quickshow 2.0 FB3 Laser Software.</a>
+</li>
+<!--1.1-->
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1755962369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4899.90</s:price>
+      <s:sku>LG-DX-HAWK-3G</s:sku>
+      <s:grams>7983</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/1755855169</id>
+    <published>2015-08-05T11:48:00-07:00</published>
+    <updated>2015-08-05T11:48:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/3w-rgb-pure-diode-laser-pro-laser-light-show-projector"/>
+    <title>Hawk 3 RGB Full Diode Laser - 3W Laser light show projector</title>
+    <s:type>Laser Lights</s:type>
+    <s:vendor>DragonX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/LG-DX-HAWK-3RGB-AMZ.jpg?v=1442274941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DragonX<br>
+        <strong>Type: </strong>Laser Lights<br>
+        <strong>Price: </strong>
+            3799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style><!--
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+--></style>
+<div class="embed-container"><iframe src="https://www.youtube.com/embed//7u6auJ_ezec?rel=0" frameborder="0" allowfullscreen=""></iframe></div>
+<strong> </strong>
+<p> </p>
+<p><strong>DragonX Hawk series laser light show projector: 3 Watt 40kpps</strong><span> - </span><span color="red" style="color: red;">Red: 650mW<strong>637nm</strong>,</span><span> </span><span color="green" style="color: green;">Green: 750mW 520nm,</span><span> </span><span color="blue" style="color: blue;">Blue: 1600mW 445nm. </span><span>Solid laser cases made out of </span><span>CNC machines. </span><span>Equipped with the very latest diode technology and extremely advanced 40kpps scan galvos. This Hawk 3W RGB laser model provide you low budget but high quality light show projector. </span></p>
+<p><strong>Main features: </strong></p>
+<ul>
+<li>3.5" touch screen</li>
+<li>Digitally adjustable parameters: brightness,projection size, projection position, Z-axis tilt, XY axis invert, TEST frames, SD card files play.</li>
+<li>State of art 520nm pure green laser diode: stable output and better lifetime compared to traditional 532nm green.</li>
+<li>Ports: ILDA DB-25, DMX, SD card, USB connecting (support ild. files)</li>
+<li>FDA compliant with all secure features.</li>
+<li>Beam Divergence &lt;1mrad at="" full="" angle="" li=""&gt;<!--1mrad-->
+</li>
+<li>Beam Diameter &lt; 4mm</li>
+<li>Modulation : &gt;100KHz Analog.</li>
+<li>Scanspeed: ILDA-40Kpps, ±25 °</li>
+<li>X/Y Scan Angle max:70° optical</li>
+<li><span>Compact Size: 10.5"X10.5"X6.1" (L265 x W265 x H155mm). Net weight: 17.6 lbs (8kg). </span></li>
+<li>
+<span>Can be operated with any ILDA-compatible controller. Works great with </span><a href="http://lighting-geek.ca/products/pangolin-quickshow-laser-show-designer-software-ilda-cables" target="_blank" title="cheap quick show software">Quickshow 2.0 FB3 Laser Software.</a>
+</li>
+<!--1mrad-->
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>RGB</s:tag>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/1755855169</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3799.00</s:price>
+      <s:sku>LG-DX-HAWK-3RGB</s:sku>
+      <s:grams>7983</s:grams>
+    </s:variant>
+  </entry>
+</feed>

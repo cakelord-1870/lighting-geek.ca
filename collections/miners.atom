@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/miners.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2019-09-03T10:13:53-07:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/4039619510317</id>
+    <published>2019-09-03T10:13:53-07:00</published>
+    <updated>2019-09-03T10:13:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/innosilicon-t2t-30th-s-btc-asic-miner-machine-2200w-bitcoin-miner-include-psu"/>
+    <title>Innosilicon T2T 30Th/s BTC ASIC Miner Machine 2200W Bitcoin Miner Include PSU</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/T2T.jpg?v=1567530897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2013.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item">Innosilicon T2T 30T bitcoin miner is 30Th/s (± 5%), energy consumption is only 2200w (+/- 10%).</span></li>
+<li><span class="a-list-item">There are 4 working models,when you set 1620w, Harsh rate is 24TH, Set 1900w, it is 26TH, Set 2100w, It is 29TH, Set 2200w, It is 30TH.</span></li>
+<li><span class="a-list-item">please be aware that Innosilicon T2T 30TH is not accept return, if you return within 20 days, we will charge 40% restock fee.</span></li>
+<li><span class="a-list-item">T2T-30T PSU is more than 2000W, so please purchase AC cable with 3*2.0 specifications, and 3 wire cores with diameter no less than 2.0mm</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/4039619510317</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2013.70</s:price>
+      <s:sku>LG-INN-T2T-30T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/4039616167981</id>
+    <published>2019-09-03T10:11:59-07:00</published>
+    <updated>2019-09-03T10:11:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/antminer-s9-14-0th-s-0-098w-gh-16nm-asic-bitcoin-miner-with-psu-and-cord-with-hosting-contract-1"/>
+    <title>Antminer S9~14.0TH/s @ 0.098W/GH 16nm ASIC Bitcoin Miner with PSU and Cord With Hosting Contract</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/antminer_S9_14.0th-1_982635e2-76cd-403c-8d84-c9c66c0b93a5.jpg?v=1567530808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            872.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With HOSTING CONTRACT!</p>
+<p>VERY GOOD CONDITION, LIKE NEW!</p>
+<p>*POWER SUPPLY &amp; CORD ARE INCLUDED*</p>
+<p>Warning: Must have 220v-264v power to run! If you only have 110v-120v power (standard power outlets in the US), then you cannot reliably power the AntMiner S9 with a single PSU. We recommend using 2 PSUs together when using 110v-120v power sources.</p>
+<p>Specifications:<br>1. Hash Rate: 14.0 TH/s ±5%<br>2. Power Consumption: 1372W ±10%<br>3. Power Efficiency: 0.098 W/GH ±7%<br>4. ASIC Chip: 189 x BM1387<br>5. Dimensions: 350mm(L)*135mm(W)*158mm(H)<br>6. Cooling: 2x 12038 fans<br>7. Network: Ethernet cable is not included</p>
+<p>Notes:<br>1. Due to the nature of these products, there are higher than normal restocking fees (typically 40%). The restocking fees are typically waived in the event that there is a provable failure within the first 30 days and the warranty has not been voided by overclocking. In the event that you experience a failure, please reach out to the seller immediately so that we can begin troubleshooting with you and/or processing a replacement.<br>2. The AntMiner S9 requires TEN 6-pin PCI-e connectors. There are three hash boards that each require THREE 6-pin PCI-e power connectors and one additional 6-pin PCI-e power connector on the controller. All TEN 6-pin PCI-e power connectors are required. Do not connect more than one PSU to the same hashing board!<br>3. Power consumption figures will vary with your PSU’s efficiency, the ambient operating temperature and the accuracy of the power meter.<br>4. One BITMAIN Power supply is included with a Heavy Duty C13 to NEMA 5-15P power cord (14AWG).<br>5. Very LOUD! Sounds like a whiny vacuum.<br>6. Metal clanking or rattling is expected when moving the AntMiner S9. The sound is from the hashing boards moving back and forth against the metal frame. This does not mean there are loose parts and does not mean the item is defective.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/4039616167981</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">872.30</s:price>
+      <s:sku>LG-BM-S9-14T-NEW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/4039613251629</id>
+    <published>2019-09-03T10:08:35-07:00</published>
+    <updated>2019-09-03T10:08:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/antminer-s9-14-0th-s-0-098w-gh-16nm-asic-bitcoin-miner-with-psu-and-cord-with-hosting-contract"/>
+    <title>Antminer S9~14.0TH/s @ 0.098W/GH 16nm ASIC Bitcoin Miner with PSU and Cord With Hosting Contract</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/antminer_S9_14.0th-1.jpg?v=1567530677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            535.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>With HOSTING CONTRACT!</p>
+<p>VERY GOOD CONDITION, LIKE NEW!</p>
+<p>*POWER SUPPLY &amp; CORD ARE INCLUDED*</p>
+<p>Warning: Must have 220v-264v power to run! If you only have 110v-120v power (standard power outlets in the US), then you cannot reliably power the AntMiner S9 with a single PSU. We recommend using 2 PSUs together when using 110v-120v power sources.</p>
+<p>Specifications:<br>1. Hash Rate: 14.0 TH/s ±5%<br>2. Power Consumption: 1372W ±10%<br>3. Power Efficiency: 0.098 W/GH ±7%<br>4. ASIC Chip: 189 x BM1387<br>5. Dimensions: 350mm(L)*135mm(W)*158mm(H)<br>6. Cooling: 2x 12038 fans<br>7. Network: Ethernet cable is not included</p>
+<p>Notes:<br>1. Due to the nature of these products, there are higher than normal restocking fees (typically 40%). The restocking fees are typically waived in the event that there is a provable failure within the first 30 days and the warranty has not been voided by overclocking. In the event that you experience a failure, please reach out to the seller immediately so that we can begin troubleshooting with you and/or processing a replacement.<br>2. The AntMiner S9 requires TEN 6-pin PCI-e connectors. There are three hash boards that each require THREE 6-pin PCI-e power connectors and one additional 6-pin PCI-e power connector on the controller. All TEN 6-pin PCI-e power connectors are required. Do not connect more than one PSU to the same hashing board!<br>3. Power consumption figures will vary with your PSU’s efficiency, the ambient operating temperature and the accuracy of the power meter.<br>4. One BITMAIN Power supply is included with a Heavy Duty C13 to NEMA 5-15P power cord (14AWG).<br>5. Very LOUD! Sounds like a whiny vacuum.<br>6. Metal clanking or rattling is expected when moving the AntMiner S9. The sound is from the hashing boards moving back and forth against the metal frame. This does not mean there are loose parts and does not mean the item is defective.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/4039613251629</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">535.60</s:price>
+      <s:sku>LG-BM-S9-14T-H-NEW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://lighting-geek.ca/sitemap_products_1.xml?from=737143809&amp;to=4039619510317</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://lighting-geek.ca/sitemap_pages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://lighting-geek.ca/sitemap_collections_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://lighting-geek.ca/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>

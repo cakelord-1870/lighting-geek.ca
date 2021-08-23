@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://lighting-geek.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://lighting-geek.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://lighting-geek.ca/collections/led-retrofit-downlights-kits-recessed-lighting.atom"/>
+  <title>Lighting Geek</title>
+  <updated>2015-12-12T22:00:00-08:00</updated>
+  <author>
+    <name>Lighting Geek</name>
+  </author>
+  <entry>
+    <id>https://lighting-geek.ca/products/3682227009</id>
+    <published>2015-12-12T22:00:00-08:00</published>
+    <updated>2015-12-12T22:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/5-inch-warm-white-led-retrofit-recessed-lighting-kit-with-trim"/>
+    <title>5&quot;/6&quot; LED Retrofit Recessed Lighting Kit with Trim - 14W 3000K Warm White</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/5-and-6-inch-LED-downlights-retrofit.jpg?v=1449986524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 14W recessed 5" &amp; 6" LED retrofit light kit is designed with 3000K Warm White and wide beam which provides soft ambient light. <span>Comes complete with E26 medium base adapter for retrofit into both 5 and 6 inch existing incandescent housings.</span> It is perfect for general indoor lighting in living room, kitchen, dining room, under cabinet and other residential lighting applications.</p>
+<p><strong>FEATURES</strong></p>
+<ul>
+<li>14-Watt (90-watt equivalent) 5"&amp; 6" recessed warm white down light</li>
+<li>1020 Lumens of brightness</li>
+<li>120V AC input with E26 Edison screw base adapter</li>
+<li>cUL Listed and Energy Star Rated</li>
+<li>36,000 hours lifetime or 16 years at 6 hours a day</li>
+<li>Dimmable to 8%.  Compatible with Lutron dimmers (TRIAC).</li>
+<li>5 years warranty!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/3682227009</id>
+      <title>1 PC</title>
+      <s:price currency="CAD">47.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://lighting-geek.ca/products/3682138945</id>
+    <published>2015-12-12T22:00:00-08:00</published>
+    <updated>2015-12-12T22:00:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://lighting-geek.ca/products/4-inch-warm-white-led-retrofit-recessed-lighting-kit-3000k-with-trim"/>
+    <title>4&quot; LED Retrofit Recessed Lighting Kit with Trim - 12W 3000K Warm White</title>
+    <s:type></s:type>
+    <s:vendor>Lighting Geek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0863/4336/products/4-inch-retrofit-recessed-lighting.jpg?v=1449983146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lighting Geek<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 12W recessed LED retrofit light kit is designed with 3000K Warm White and wide beam which provides soft ambient light. It is perfect for general indoor lighting in living room, kitchen, dining room, under cabinet and other residential lighting applications.</p>
+<p><strong>FEATURES</strong></p>
+<ul>
+<li>Integral frosted PMMA lens offers a soft uniform 90º light distribution pattern.</li>
+<li>12-Watt (75-watt equivalent) 4" recessed warm white down light</li>
+<li>860 Lumens of brightness</li>
+<li>120V AC input with E26 Edison screw base adapter</li>
+<li>cUL Listed and Energy Star Rated </li>
+<li>36,000 hours lifetime or 16 years at 6 hours a day</li>
+<li>Dimmable to 8%.  Compatible with Lutron dimmers (TRIAC).</li>
+<li>5 years warranty!</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://lighting-geek.ca/products/3682138945</id>
+      <title>1 PC</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
